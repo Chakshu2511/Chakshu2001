@@ -1,2 +1,3 @@
 Responsive our team page
-Task1 is zip file for project
+
+Task1 is a zip file for the project
