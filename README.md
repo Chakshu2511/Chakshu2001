@@ -1,2 +1,2 @@
-# our-team-section-ap30
-how to create the our team section using HTML and CSS
+Responsive our team page
+Task1 is zip file for project
